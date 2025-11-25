@@ -8,7 +8,7 @@ In this post, I will set up OpenCV v4.10.0 on Windows 10 and create a demo C++ p
 
 ### 1. Download
 
-- Go to the OpenCV releases page (https://opencv.org/releases/).
+- Go to the [OpenCV releases](https://opencv.org/releases/) page.
 
 - Find version **4.10.0**.
 
