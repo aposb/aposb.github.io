@@ -18,9 +18,9 @@ In this post, I will set up OpenCV v4.10.0 on Windows 10 and create a demo C++ p
 
 - Run the installer.
 
-- Specify "C:\" as the installation path.
+- Specify "C:\\" as the installation path.
 
-- After installation, a new folder named **opencv** should appear in "C:\".
+- After installation, a new folder named **opencv** should appear in "C:\\".
 
 ### 3. Set Environment Variables
 
