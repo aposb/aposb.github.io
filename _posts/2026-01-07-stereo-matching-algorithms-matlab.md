@@ -11,7 +11,7 @@ Stereo matching is a core problem in computer vision, and performance matters, e
 
 All algorithms are available in this [GitHub repository](https://github.com/bollasap/stereo-matching-algorithms-matlab).
 
-If you’re interested in an optimized Block Matching approach, you can also check out: [Block Matching for Stereo](https://github.com/aposb/block-matching-for-stereo).
+If you’re interested in an optimized Block Matching approach, you can also check out the [Block Matching for Stereo](https://github.com/aposb/block-matching-for-stereo).
 
 ---
 
