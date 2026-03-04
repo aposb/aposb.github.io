@@ -1,3 +1,5 @@
+# Stereo Matching Algorithms in MATLAB and Python
+
 Stereo matching is a core problem in computer vision, and performance matters, especially when working with large images or real-time systems. In this post, I’m sharing a set of **fast, optimized stereo matching algorithms implemented in MATLAB and Python**.
 
 ---
