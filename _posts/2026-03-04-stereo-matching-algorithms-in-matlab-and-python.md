@@ -12,7 +12,7 @@ Stereo matching is a core problem in computer vision, and performance matters, e
 
 ### What's Included
 
-- **Block Matching**
+- Two versions of **Block Matching**
 - Two versions of **Dynamic Programming**
 - **Semi-Global Matching** and **Semi-Global Block Matching**
 - Three versions of **Belief Propagation**
